@@ -1,0 +1,8 @@
+image/.idea/
+image/.idea/**
+
+sieeer/.idea/
+sieeer/.idea/**
+
+venv/
+venv/**
