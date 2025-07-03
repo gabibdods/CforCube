@@ -1,8 +1,11 @@
-image/.idea/
-image/.idea/**
+visual.py/.idea/
+visual.py/.idea/**
 
-sieeer/.idea/
-sieeer/.idea/**
+visual.cpp/.idea/
+visual.cpp/.idea/**
+
+solve.cpp/.idea/
+solve.cpp/.idea/**
 
 venv/
 venv/**
